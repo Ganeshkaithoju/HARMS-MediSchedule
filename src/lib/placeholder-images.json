@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "doctor-1",
+      "description": "Dr. Evelyn Reed, Cardiologist",
+      "imageUrl": "https://picsum.photos/seed/doc1/100/100",
+      "imageHint": "doctor portrait"
+    },
+    {
+      "id": "doctor-2",
+      "description": "Dr. Marcus Thorne, Neurologist",
+      "imageUrl": "https://picsum.photos/seed/doc2/100/100",
+      "imageHint": "doctor smiling"
+    },
+    {
+      "id": "doctor-3",
+      "description": "Dr. Lena Petrova, Pediatrician",
+      "imageUrl": "https://picsum.photos/seed/doc3/100/100",
+      "imageHint": "female doctor"
+    },
+    {
+      "id": "doctor-4",
+      "description": "Dr. Samuel Chen, Dermatologist",
+      "imageUrl": "https://picsum.photos/seed/doc4/100/100",
+      "imageHint": "male doctor"
+    },
+    {
+      "id": "user-patient",
+      "description": "Patient Avatar",
+      "imageUrl": "https://picsum.photos/seed/patient1/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "user-doctor",
+      "description": "Doctor Avatar",
+      "imageUrl": "https://picsum.photos/seed/userdoc1/100/100",
+      "imageHint": "doctor professional"
+    },
+    {
+      "id": "user-admin",
+      "description": "Admin Avatar",
+      "imageUrl": "https://picsum.photos/seed/admin1/100/100",
+      "imageHint": "professional person"
+    }
+  ]
+}
